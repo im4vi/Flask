@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Detalle{% endblock %}
+{% block content %}
+<h2>{{ equipo.nombre }}</h2>
+<ul>
+    <li>Deporte: {{ equipo.detalles.deporte }}</li>
+    <li>Liga: {{ equipo.detalles.liga }}</li>
+    <li>Estadio: {{ equipo.detalles.estadio }}</li>
+    <li>Títulos nacionales: {{ equipo.detalles.titulos_nacionales }}</li>
+    <li>Colores: {{ equipo.detalles.colores | join(', ') }}</li>
+    <li>Jugadores: {{ equipo.plantilla.jugadores }}</li>
+    <li>Internacionales: {{ equipo.plantilla.internacionales }}</li>
+    <li>Edad promedio: {{ equipo.plantilla.promedio_edad }}</li>
+</ul>
+<a href="{{ url_for('xxxs') }}">← Volver a la búsqueda</a>
+{% endblock %}

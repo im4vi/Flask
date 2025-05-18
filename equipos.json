@@ -1,0 +1,261 @@
+[
+  {
+    "id": "663b3d1a8a1c0a001c001",
+    "nombre": "FC Barcelona",
+    "valoracion_mercado_millones": 4200.5,
+    "detalles": {
+      "deporte": "Fútbol",
+      "liga": "LaLiga",
+      "estadio": "Spotify Camp Nou",
+      "titulos_nacionales": 27,
+      "colores": [
+        "Azul",
+        "Grana"
+      ]
+    },
+    "plantilla": {
+      "jugadores": 25,
+      "internacionales": 18,
+      "promedio_edad": 26.4
+    },
+    "en_competicion": true,
+    "fecha": {
+      "fundacion": "1899-11-29T00:00:00Z",
+      "ultima_temp_actualizacion": "2024-06-01T00:00:00Z"
+    },
+    "comentarios": []
+  },
+  {
+    "id": "663b3d1b8a1c0a001c002",
+    "nombre": "Golden State Warriors",
+    "valoracion_mercado_millones": 6800.0,
+    "detalles": {
+      "deporte": "Baloncesto",
+      "liga": "NBA",
+      "estadio": "Chase Center",
+      "titulos_nacionales": 7,
+      "colores": [
+        "Azul",
+        "Amarillo"
+      ]
+    },
+    "plantilla": {
+      "jugadores": 15,
+      "internacionales": 5,
+      "promedio_edad": 27.1
+    },
+    "en_competicion": true,
+    "fecha": {
+      "fundacion": "1946-04-06T00:00:00Z",
+      "ultima_temp_actualizacion": "2025-04-25T00:00:00Z"
+    },
+    "comentarios": []
+  },
+  {
+    "id": "663b3d1c8a1c0a001c003",
+    "nombre": "New York Yankees",
+    "valoracion_mercado_millones": 7000.0,
+    "detalles": {
+      "deporte": "Béisbol",
+      "liga": "MLB",
+      "estadio": "Yankee Stadium",
+      "titulos_nacionales": 27,
+      "colores": [
+        "Azul Marino",
+        "Blanco"
+      ]
+    },
+    "plantilla": {
+      "jugadores": 26,
+      "internacionales": 9,
+      "promedio_edad": 28.0
+    },
+    "en_competicion": true,
+    "fecha": {
+      "fundacion": "1901-03-12T00:00:00Z",
+      "ultima_temp_actualizacion": "2024-10-03T00:00:00Z"
+    },
+    "comentarios": []
+  },
+  {
+    "id": "663b3d1d8a1c0a001c004",
+    "nombre": "Los Angeles Lakers",
+    "valoracion_mercado_millones": 6100.3,
+    "detalles": {
+      "deporte": "Baloncesto",
+      "liga": "NBA",
+      "estadio": "Crypto.com Arena",
+      "titulos_nacionales": 17,
+      "colores": [
+        "Amarillo",
+        "Púrpura"
+      ]
+    },
+    "plantilla": {
+      "jugadores": 15,
+      "internacionales": 4,
+      "promedio_edad": 29.2
+    },
+    "en_competicion": true,
+    "fecha": {
+      "fundacion": "1947-01-01T00:00:00Z",
+      "ultima_temp_actualizacion": "2025-03-10T00:00:00Z"
+    },
+    "comentarios": []
+  },
+  {
+    "id": "663b3d1e8a1c0a001c005",
+    "nombre": "Manchester United",
+    "valoracion_mercado_millones": 5000.0,
+    "detalles": {
+      "deporte": "Fútbol",
+      "liga": "Premier League",
+      "estadio": "Old Trafford",
+      "titulos_nacionales": 20,
+      "colores": [
+        "Rojo",
+        "Blanco"
+      ]
+    },
+    "plantilla": {
+      "jugadores": 26,
+      "internacionales": 17,
+      "promedio_edad": 25.7
+    },
+    "en_competicion": true,
+    "fecha": {
+      "fundacion": "1878-03-05T00:00:00Z",
+      "ultima_temp_actualizacion": "2025-04-01T00:00:00Z"
+    },
+    "comentarios": []
+  },
+  {
+    "id": "663b3d1f8a1c0a001c006",
+    "nombre": "Chicago Bulls",
+    "valoracion_mercado_millones": 4300.1,
+    "detalles": {
+      "deporte": "Baloncesto",
+      "liga": "NBA",
+      "estadio": "United Center",
+      "titulos_nacionales": 6,
+      "colores": [
+        "Rojo",
+        "Negro"
+      ]
+    },
+    "plantilla": {
+      "jugadores": 15,
+      "internacionales": 3,
+      "promedio_edad": 26.9
+    },
+    "en_competicion": false,
+    "fecha": {
+      "fundacion": "1966-01-16T00:00:00Z",
+      "ultima_temp_actualizacion": "2024-04-14T00:00:00Z"
+    },
+    "comentarios": []
+  },
+  {
+    "id": "663b3d208a1c0a001c007",
+    "nombre": "Paris Saint-Germain",
+    "valoracion_mercado_millones": 3500.6,
+    "detalles": {
+      "deporte": "Fútbol",
+      "liga": "Ligue 1",
+      "estadio": "Parque de los Príncipes",
+      "titulos_nacionales": 11,
+      "colores": [
+        "Azul",
+        "Rojo"
+      ]
+    },
+    "plantilla": {
+      "jugadores": 24,
+      "internacionales": 19,
+      "promedio_edad": 25.8
+    },
+    "en_competicion": true,
+    "fecha": {
+      "fundacion": "1970-08-12T00:00:00Z",
+      "ultima_temp_actualizacion": "2025-04-21T00:00:00Z"
+    },
+    "comentarios": []
+  },
+  {
+    "id": "663b3d218a1c0a001c008",
+    "nombre": "Real Madrid CF",
+    "valoracion_mercado_millones": 4400.0,
+    "detalles": {
+      "deporte": "Fútbol",
+      "liga": "LaLiga",
+      "estadio": "Santiago Bernabéu",
+      "titulos_nacionales": 36,
+      "colores": [
+        "Blanco"
+      ]
+    },
+    "plantilla": {
+      "jugadores": 25,
+      "internacionales": 21,
+      "promedio_edad": 27.0
+    },
+    "en_competicion": true,
+    "fecha": {
+      "fundacion": "1902-03-06T00:00:00Z",
+      "ultima_temp_actualizacion": "2025-05-02T00:00:00Z"
+    },
+    "comentarios": []
+  },
+  {
+    "id": "663b3d228a1c0a001c009",
+    "nombre": "Boston Red Sox",
+    "valoracion_mercado_millones": 3700.0,
+    "detalles": {
+      "deporte": "Béisbol",
+      "liga": "MLB",
+      "estadio": "Fenway Park",
+      "titulos_nacionales": 9,
+      "colores": [
+        "Rojo",
+        "Blanco"
+      ]
+    },
+    "plantilla": {
+      "jugadores": 26,
+      "internacionales": 7,
+      "promedio_edad": 27.3
+    },
+    "en_competicion": true,
+    "fecha": {
+      "fundacion": "1901-01-01T00:00:00Z",
+      "ultima_temp_actualizacion": "2024-09-12T00:00:00Z"
+    },
+    "comentarios": []
+  },
+  {
+    "id": "663b3d238a1c0a001c010",
+    "nombre": "Juventus",
+    "valoracion_mercado_millones": 3100.0,
+    "detalles": {
+      "deporte": "Fútbol",
+      "liga": "Serie A",
+      "estadio": "Allianz Stadium",
+      "titulos_nacionales": 36,
+      "colores": [
+        "Blanco",
+        "Negro"
+      ]
+    },
+    "plantilla": {
+      "jugadores": 26,
+      "internacionales": 15,
+      "promedio_edad": 26.5
+    },
+    "en_competicion": true,
+    "fecha": {
+      "fundacion": "1897-11-01T00:00:00Z",
+      "ultima_temp_actualizacion": "2025-04-28T00:00:00Z"
+    },
+    "comentarios": []
+  }
+]

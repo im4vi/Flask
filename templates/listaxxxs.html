@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}Resultados{% endblock %}
+{% block content %}
+<h2>Resultados</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Deporte / Liga</th>
+            <th>Detalle</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for equipo in resultados %}
+        <tr>
+            <td>{{ equipo.nombre }}</td>
+            <td>{{ equipo.detalles.deporte }} / {{ equipo.detalles.liga }}</td>
+            <td><a href="{{ url_for('detalle', identificador=equipo.id) }}">Detalle</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<a href="{{ url_for('xxxs') }}" class="volver">← Volver</a>
+{% endblock %}

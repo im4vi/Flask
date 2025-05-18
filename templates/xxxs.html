@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}Buscar Equipos{% endblock %}
+{% block content %}
+<h2>Buscar Equipos</h2>
+<form method="POST" action="{{ url_for('listaxxxs') }}">
+    <input type="text" name="nombre" placeholder="Nombre del equipo" autocomplete="off">
+    <button type="submit">Buscar</button>
+</form>
+{% endblock %}
